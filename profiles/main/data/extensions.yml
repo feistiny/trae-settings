@@ -1,0 +1,84 @@
+disabled:
+  - id: ahoseinian.region-folder
+    uuid: 5a2b9d69-8cc8-4456-9981-7c7bc2786daa
+  - id: buuug7.GBK2UTF8
+    uuid: d3b03ca3-b9be-4e26-ad84-6b464d023314
+  - id: FittenTech.Fitten-Code
+    uuid: c21155b2-e67d-4bcf-bc8c-02a73adee5f3
+  - id: humao.rest-client
+    uuid: dda49fd5-1f3b-4d25-bf61-4fc41905ede5
+  - id: ms-dotnettools.vscode-dotnet-runtime
+    uuid: 1aab81a1-b3d9-4aef-976b-577d5d90fe3f
+  - id: ms-toolsai.jupyter
+    uuid: 6c2f1801-1e7f-45b2-9b5c-7782f1e076e8
+  - id: ms-toolsai.jupyter-keymap
+    uuid: 9f6dc8db-620c-4844-b8c5-e74914f1be27
+  - id: ms-toolsai.jupyter-renderers
+    uuid: b15c72f8-d5fe-421a-a4f7-27ed9f6addbf
+  - id: ms-toolsai.vscode-jupyter-cell-tags
+    uuid: ab4fb32a-befb-4102-adf9-1652d0cd6a5e
+  - id: ms-toolsai.vscode-jupyter-slideshow
+    uuid: e153ca70-b543-4865-b4c5-b31d34185948
+  - id: ms-vscode-remote.remote-containers
+    uuid: 93ce222b-5f6f-49b7-9ab1-a0463c6238df
+  - id: ms-vscode-remote.remote-ssh
+    uuid: 607fd052-be03-4363-b657-2bd62b83d28a
+  - id: ms-vscode-remote.remote-ssh-edit
+    uuid: bfeaf631-bcff-4908-93ed-fda4ef9a0c5c
+  - id: ms-vscode-remote.remote-wsl
+    uuid: f0c5397b-d357-4197-99f0-cb4202f22818
+  - id: ms-vscode-remote.vscode-remote-extensionpack
+    uuid: 23d72dfc-8dd1-4e30-926e-8783b4378f13
+  - id: ms-vscode.remote-explorer
+    uuid: 11858313-52cc-4e57-b3e4-d7b65281e34b
+  - id: ms-vscode.remote-server
+    uuid: 105c0b3c-07a9-4156-a4fc-4141040eb07e
+  - id: muhammad-sammy.csharp
+    uuid: 00000000-0000-0000-0000-000000000000
+  - id: octref.vetur
+    uuid: 2f5dd8cb-d251-4d70-abfe-ddebcb077483
+  - id: rust-lang.rust-analyzer
+    uuid: 06574cb4-e5dc-4631-8174-a543a4533621
+  - id: tauri-apps.tauri-vscode
+    uuid: 53763e89-ec31-4d0c-b220-f714761180e5
+  - id: vadimcn.vscode-lldb
+    uuid: bee31e34-a44b-4a76-9ec2-e9fd1439a0f6
+enabled:
+  - id: aliasadidev.nugetpackagemanagergui
+    uuid: 697a8357-0d3b-4765-8ec9-3a394c9e82c7
+  - id: detachhead.basedpyright
+    uuid: 249aa903-c0c5-4eb3-9deb-06895c663b8b
+  - id: eamodio.gitlens
+    uuid: 4de763bd-505d-4978-9575-2b7696ecf94e
+  - id: formulahendry.code-runner
+    uuid: a6a0c5b2-d078-4bf5-a9ee-4e37054414b3
+  - id: golang.go
+    uuid: d6f6cfea-4b6f-41f4-b571-6ad2ab7918da
+  - id: jeanp413.open-remote-wsl
+    uuid: 85cc8d73-323e-4b6c-8b8b-cdf0f6800249
+  - id: ms-azuretools.vscode-containers
+    uuid: 2cd1d691-3d69-4d2d-ae39-fda4bc4cfd3d
+  - id: ms-azuretools.vscode-docker
+    uuid: 0479fc1c-3d67-49f9-b087-fb9069afe48f
+  - id: ms-python.debugpy
+    uuid: 4bd5d2c9-9d65-401a-b0b2-7498d9f17615
+  - id: ms-python.python
+    uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
+  - id: Natizyskunk.sftp
+    uuid: fe74bfaf-4260-454f-981c-6541d1d31822
+  - id: nguyenngoclong.terminal-keeper
+    uuid: a98b33fd-04b2-44fb-91b9-5148d015d07f
+  - id: r3inbowari.gomodexplorer
+    uuid: eaed99b7-b989-46fc-a044-56dd0ce8e574
+  - id: sumneko.lua
+    uuid: 3a15b5a7-be12-47e3-8445-88ee3eabc8b2
+  - id: Vue.volar
+    uuid: a95ee795-1576-4ffa-acda-8d6e6a95c584
+  - id: xiaoxin-technology.goctl
+    uuid: null
+  - id: YeZhui.vsplugin-helper
+    uuid: e1106b84-15ef-4ca7-9dd2-b8d09d82403f
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
+  - id: zxh404.vscode-proto3
+    uuid: 1d3d1fb2-0d8f-47ed-bfce-990b8ddfc9d8
