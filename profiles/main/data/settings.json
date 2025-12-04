@@ -82,5 +82,12 @@
     "--hover-kind=detailed"
   ],
   "AI.toolcall.v2.ide.mcp.autoRun": "alwaysRun",
-  "AI.toolcall.v2.ide.command.mode": "alwaysRun"
+  "AI.toolcall.v2.ide.command.mode": "alwaysRun",
+  "syncSettings.resources": [
+    "extensions",
+    "keybindings",
+    "settings",
+    "snippets",
+    "uiState"
+  ]
 }
